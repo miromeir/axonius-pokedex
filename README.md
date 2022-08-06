@@ -7,7 +7,7 @@ This is a take-home task for Axonius.
 Then:
 <br/>
 ```
-git pull git@github.com:miromeir/axonius-pokedex.git
+git clone git@github.com:miromeir/axonius-pokedex.git
 cd axonius-pokedex
 yarn install
 yarn start
