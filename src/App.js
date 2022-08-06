@@ -17,8 +17,8 @@ function App() {
       setTimeout(() =>
           dispatch(setLoaded()), 1000)
     }
-    // Wait for window to focus, then start timer
-    else{
+    
+    else { // Wait for window to focus, then start timer
       window.addEventListener("focus", 
       () =>
         setTimeout(() =>
