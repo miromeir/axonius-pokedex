@@ -13,3 +13,5 @@ yarn install
 yarn start
 ```
 Then navigate to http://localhost:3000
+
+![](https://github.com/miromeir/axonius-pokedex/blob/main/Animation.gif?raw=true)
