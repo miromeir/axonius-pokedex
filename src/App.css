@@ -1,3 +1,12 @@
+@import url('http://fonts.cdnfonts.com/css/thegoodmonolith');
+body{
+  font-family: 'TheGoodMonolith', sans-serif;
+}
+#background-video{
+  position:fixed;
+  height:600px;
+}
+
 .App {
   text-align: center;
 }
