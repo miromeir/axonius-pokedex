@@ -15,3 +15,5 @@ yarn start
 Then navigate to http://localhost:3000 *due to dark magic localhost and 127.0.0.1 render different sizes for me. I suggest localhost but you can try both*
 
 ![](https://github.com/miromeir/axonius-pokedex/blob/main/Animation.gif?raw=true)
+
+Credits for 3D model by Liran Ohana. (Who happens to be my brother)
