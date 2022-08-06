@@ -12,6 +12,6 @@ cd axonius-pokedex
 yarn install
 yarn start
 ```
-Then navigate to http://localhost:3000
+Then navigate to http://localhost:3000 *due to dark magic localhost and 127.0.0.1 render different sizes for me. I suggest localhost but you can try both*
 
 ![](https://github.com/miromeir/axonius-pokedex/blob/main/Animation.gif?raw=true)
